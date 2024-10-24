@@ -1,0 +1,1 @@
+This connects to the actual hardware. Just connect the servos to power and 33 for one data line and 27 for the other data line.

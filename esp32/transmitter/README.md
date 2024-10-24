@@ -1,0 +1,1 @@
+This connects to the PI! Make sure you plug it into the USB ports with a cable that supports data, not just power!

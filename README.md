@@ -48,4 +48,8 @@ The original plan was to use voice2json for offline voice control, which require
 
 ## Note
 
-This is me posting the project to contribute to my profile. If you want to build it yourself, you'll likely need to adjust the setup for your specific environment, but it's a nice starting point.
+This is me posting the project to contribute to my profile. If you want to build it yourself, you'll likely need to adjust the setup for your specific environment, but it's a nice starting point. This project is just a simple way to control lights, it's NOT meant to be a full-fledged home automation system. It is not meant to be easily modified or adapted to other setups. It's just a fun project I made in a day.
+
+## Door Lock
+
+Another project I made that allows you to unlock your door using your phone IS much more polished and complete. You can check it out [here](https://github.com/SlickTorpedo/DoorLock). This has an integration to turn on the lights when you unlock the door, so it's a nice companion to this project.
