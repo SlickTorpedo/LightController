@@ -57,10 +57,10 @@ Another project I made that allows you to unlock your door using your phone IS m
 ## Demo
 
 ### Hardware Closeup
-[Watch the Hardware Closeup](https://raw.githubusercontent.com/SlickTorpedo/LightController/main/media/hardware_closeup.mp4)
+https://raw.githubusercontent.com/SlickTorpedo/LightController/main/media/hardware_closeup.mp4
 
 ### View Lights
-[Watch the View Lights](https://raw.githubusercontent.com/SlickTorpedo/LightController/main/media/light_view.mp4)
+https://raw.githubusercontent.com/SlickTorpedo/LightController/main/media/light_view.mp4
 
 ### Door Integration
-[Watch the Door Integration](https://raw.githubusercontent.com/SlickTorpedo/LightController/main/media/door_integration.mp4)
+https://raw.githubusercontent.com/SlickTorpedo/LightController/main/media/door_integration.mp4
