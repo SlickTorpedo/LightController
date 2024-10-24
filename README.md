@@ -53,3 +53,11 @@ This is me posting the project to contribute to my profile. If you want to build
 ## Door Lock
 
 Another project I made that allows you to unlock your door using your phone IS much more polished and complete. You can check it out [here](https://github.com/SlickTorpedo/DoorLock). This has an integration to turn on the lights when you unlock the door, so it's a nice companion to this project.
+
+## Demo
+
+![Hardware Closeup](https://github.com/SlickTorpedo/LightController/raw/refs/heads/main/media/hardware_closeup.mp4)
+
+![View Lights](https://github.com/SlickTorpedo/LightController/raw/refs/heads/main/media/light_view.mp4)
+
+![Door Integration](https://github.com/SlickTorpedo/LightController/raw/refs/heads/main/media/door_integration.mp4)
